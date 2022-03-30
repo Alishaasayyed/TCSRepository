@@ -1,0 +1,3 @@
+[submodule "TCS-CRS-B-SPRING-JDBC-TEMPLATE"]
+	path = TCS-CRS-B-SPRING-JDBC-TEMPLATE
+	url = https://github.com/Alishaasayyed/TCS-CRS-B-SPRING-JDBC-TEMPLATE.git
